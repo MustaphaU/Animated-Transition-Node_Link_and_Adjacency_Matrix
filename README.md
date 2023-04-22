@@ -1,4 +1,4 @@
-# Animated-Transition-Node_Link_and_Adjancency_Matrix
+# Animated-Transition-Node_Link_and_Adjacency_Matrix
 View deployment here: https://mustaphau.github.io/Animated-Transition-Node_Link_and_Adjacency_Matrix/
 
 <video width="320" height="240" controls>
