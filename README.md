@@ -1,3 +1,7 @@
 # Animated-Transition-Node_Link_and_Adjancency_Matrix
 View deployment here: https://mustaphau.github.io/Animated-Transition-Node_Link_and_Adjancency_Matrix/
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVkNzIxZGY1YTk5MGFkZGJkODk5Y2FjMTIyZmM2NjE5ZmM5MDg4NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/baqxFFAs8mZnJtV59d/giphy.gif)
+
+https://user-images.githubusercontent.com/123378149/233776525-3b732124-7651-42e9-9191-d7910ce41eb8.mp4
+<video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/123378149/233776525-3b732124-7651-42e9-9191-d7910ce41eb8.mp4" type="video/mp4">
+</video>
