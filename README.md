@@ -1,4 +1,6 @@
 # Animated-Transition-Node_Link_and_Adjacency_Matrix
+![Untitled (1)](https://user-images.githubusercontent.com/123378149/233891515-c7ecc79a-63b6-4814-a5e8-c4597b936223.gif)
+
 View the deployment here: https://mustaphau.github.io/Animated-Transition-Node_Link_and_Adjacency_Matrix/
 
 # Visualization Guide
@@ -22,5 +24,3 @@ View the deployment here: https://mustaphau.github.io/Animated-Transition-Node_L
 1. You can toggle between the node-link and adjacency matrix views.
 2. If you re-order nodes in the matrix view, ensure you allow the reordering process to complete before switching back to the node view.
 3. Overlapping names in the matrix view can be resolved by completing the reordering process.
-
-![Untitled (1)](https://user-images.githubusercontent.com/123378149/233891515-c7ecc79a-63b6-4814-a5e8-c4597b936223.gif)
